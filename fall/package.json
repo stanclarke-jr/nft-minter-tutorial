@@ -1,0 +1,26 @@
+{
+  "name": "fall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.4.1",
+    "eslint-config-airbnb": "^19.0.2",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.27.1",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "hardhat": "^2.7.1",
+    "prettier": "^2.5.1"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.9",
+    "@openzeppelin/contracts": "^4.4.0",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.0.0"
+  }
+}
